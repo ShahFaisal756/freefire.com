@@ -1,0 +1,2 @@
+# freefire.com
+new update
